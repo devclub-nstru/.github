@@ -31,4 +31,4 @@ To figure out a great `first GitHub issue` to work on, [join our Discord Server]
 
 You should also checkout our [contribution guide](https://github.com/nxtuporg/.github/blob/main/CONTRIBUTING.md)
 
-Looking forwrad to work with you. 🤗
+Looking forward to work with you. 🤗
