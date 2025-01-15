@@ -25,7 +25,7 @@ There are many awesome ways to contribute to NXTUP. (Code isn't the only way to 
 |  🐛 <br /> `bug`   |      Bug reports       |    📝 <br /> `blog`     |  Blogposts  |   💻 <br /> `code`   |        Code         |
 |  📖 <br /> `doc`   |     Documentation      |   🎨 <br /> `design`    |   Design    | 💡 <br /> `example`  |      Examples       |
 | 🤔 <br /> `ideas`  |    Ideas & Planning    | 🚧 <br /> `maintenance` | Maintenance | 💬 <br /> `question` | Answering Questions |
-| 👀 <br /> `review` | Reviewed Pull Requests |    📢 <br /> `talk`     |    Talks    |
+| 👀 <br /> `review` | Reviewed Pull Requests |
 
 To figure out a great `first GitHub issue` to work on, [join our Discord Server]()
 
