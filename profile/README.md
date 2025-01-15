@@ -1,24 +1,22 @@
 ## ✨ Welcome
 
-Welcome to the Open-Source (OSS) [NxtUp](https://nxtup.in/)
+Welcome to the GitHub organization of the Dev-Club (NSTxRU)
 
-NXTUP seeks to improve the notification and registration system of college events as a whole.
+We as a community aim to provide a healthy and competitive environment for learning and development of both technical and non-technical skills of any individual who is a part of us.
 
-We as a community aim to provide a robust and frictionless experience to make your university life easier. 
+## 🌏 Join DevClub community
 
-## 🌏 Join NXTUP community
-
-To get Involved with our community, please make sure you are familiar with the project's [Code of Conduct](https://github.com/nxtuporg/.github/blob/main/CODE_OF_CONDUCT.md).
+To get Involved with our community, please make sure you are familiar with our [Code of Conduct](https://github.com/devclub-nstru/.github/blob/main/CODE_OF_CONDUCT.md)
 
 - **Join our Discord Server**: [Join our Discord Server]()
 - **Github issues**: for bugs and feature requests.
-- **Github Pull Requests (PRs)**: for fixes or new features already discussed, as per the [contributing guidelines](https://github.com/nxtuporg/.github/blob/main/CONTRIBUTING.md)
+- **Github Pull Requests (PRs)**: for fixes or new features already discussed, as per the [contributing guidelines](https://github.com/devclub-nstru/.github/blob/main/CONTRIBUTING.md)
 
-## 👩🏽‍💻 Contribut to NXTUP
+## 👩🏽‍💻 Contribute to DevClub
 
 First of all, thank you for getting involved!✨
 
-There are many awesome ways to contribute to NXTUP. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
+There are many awesome ways to contribute to DevClub. (Code isn't the only way to help out! ❤️) The below table gives you an idea of how contributions are recognized in the project.
 
 |     Emoji/Type     |       Represents       |       Emoji/Type        | Represents  |      Emoji/Type      |     Represents      |
 | :----------------: | :--------------------: | :---------------------: | :---------: | :------------------: | :-----------------: |
@@ -29,6 +27,6 @@ There are many awesome ways to contribute to NXTUP. (Code isn't the only way to 
 
 To figure out a great `first GitHub issue` to work on, [join our Discord Server]()
 
-You should also checkout our [contribution guide](https://github.com/nxtuporg/.github/blob/main/CONTRIBUTING.md)
+You should also checkout our [contribution guide](https://github.com/devclub-nstru/.github/blob/main/CONTRIBUTING.md)
 
 Looking forward to work with you. 🤗
