@@ -1,6 +1,6 @@
 ## ✨ Welcome
 
-Welcome to the GitHub organization of the Dev-Club (NSTxRU)
+Welcome to the GitHub organization of the DevClub (NSTxRU)
 
 We as a community aim to provide a healthy and competitive environment for learning and development of both technical and non-technical skills of any individual who is a part of us.
 
