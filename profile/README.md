@@ -8,7 +8,7 @@ We as a community aim to provide a healthy and competitive environment for learn
 
 To get Involved with our community, please make sure you are familiar with our [Code of Conduct](https://github.com/devclub-nstru/.github/blob/main/CODE_OF_CONDUCT.md)
 
-- **Join our Discord Server**: [Join our Discord Server](https://discord.gg/sepbc677)
+- **Join our Discord Server**: [Join our Discord Server](https://discord.com/invite/F2a9ceq7ss)
 - **Github issues**: for bugs and feature requests.
 - **Github Pull Requests (PRs)**: for fixes or new features already discussed, as per the [contributing guidelines](https://github.com/devclub-nstru/.github/blob/main/CONTRIBUTING.md)
 
@@ -25,7 +25,7 @@ There are many awesome ways to contribute to DevClub. (Code isn't the only way t
 | 🤔 <br /> `ideas`  |    Ideas & Planning    | 🚧 <br /> `maintenance` | Maintenance | 💬 <br /> `question` | Answering Questions |
 | 👀 <br /> `review` | Reviewed Pull Requests |
 
-To figure out a great `first GitHub issue` to work on, [join our Discord Server](https://discord.gg/sepbc677)
+To figure out a great `first GitHub issue` to work on, [join our Discord Server](https://discord.com/invite/F2a9ceq7ss)
 
 You should also checkout our [contribution guide](https://github.com/devclub-nstru/.github/blob/main/CONTRIBUTING.md)
 
